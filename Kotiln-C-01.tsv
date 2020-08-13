@@ -1,0 +1,11 @@
+C	Kotlin
+char	kotlin.Byte
+unsigned char	kotlin.UByte
+short	kotlin.Short
+unsigned short	kotlin.UShort
+int	kotlin.Int
+unsigned int	kotlin.UInt
+long long	kotlin.Long
+unsigned long long	kotlin.ULong
+float	kotlin.Float
+double	kotlin.Double

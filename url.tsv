@@ -1,0 +1,3 @@
+Kotiln-Swift-Objective_C	curl -fsSL 'https://kotlinlang.org/docs/reference/native/objc_interop.html#mappings' -o test.html
+Java-Kotlin	curl -fsSL 'https://kotlinlang.org/docs/reference/java-interop.html#mapped-types' -o test.html
+Kotiln-C	curl -fsSL https://kotlinlang.org/docs/tutorials/native/mapping-primitive-data-types-from-c.html -o test.html
