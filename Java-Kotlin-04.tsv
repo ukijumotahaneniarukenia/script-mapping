@@ -1,0 +1,9 @@
+Java type	Kotlin read-only type	Kotlin mutable type	Loaded platform type
+Iterator<T>	Iterator<T>	MutableIterator<T>	(Mutable)Iterator<T>!
+Iterable<T>	Iterable<T>	MutableIterable<T>	(Mutable)Iterable<T>!
+Collection<T>	Collection<T>	MutableCollection<T>	(Mutable)Collection<T>!
+Set<T>	Set<T>	MutableSet<T>	(Mutable)Set<T>!
+List<T>	List<T>	MutableList<T>	(Mutable)List<T>!
+ListIterator<T>	ListIterator<T>	MutableListIterator<T>	(Mutable)ListIterator<T>!
+Map<K, V>	Map<K, V>	MutableMap<K, V>	(Mutable)Map<K, V>!
+Map.Entry<K, V>	Map.Entry<K, V>	MutableMap.MutableEntry<K,V>	(Mutable)Map.(Mutable)Entry<K, V>!

@@ -1,0 +1,9 @@
+Java type	Kotlin type
+byte	kotlin.Byte
+short	kotlin.Short
+int	kotlin.Int
+long	kotlin.Long
+char	kotlin.Char
+float	kotlin.Float
+double	kotlin.Double
+boolean	kotlin.Boolean
