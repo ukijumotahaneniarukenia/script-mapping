@@ -1,1 +1,1 @@
-# script-typing
+# script-mapping
